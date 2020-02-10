@@ -1,0 +1,49 @@
+/* prefixed by https://autoprefixer.github.io (PostCSS: v7.0.26, autoprefixer: v9.7.3) */
+
+/* prefixed by https://autoprefixer.github.io (PostCSS: v7.0.26, autoprefixer: v9.7.3) */
+
+body {
+    height: 80%;
+    width: 100%;
+    position: relative;
+    margin: auto auto;
+    background-color: beige;
+}
+
+.container {
+    width: 60%;
+    height: 100%;
+    position: relative;
+    margin: auto auto;
+}
+
+.tough_love {
+    width: 100%;
+    text-align: center;
+    position: relative;
+    font-size: 30px;
+    margin-bottom: 300px;
+}
+
+#myForm {
+    width: 60%;
+    margin: auto auto;
+    position: relative;
+    text-align: center;
+}
+
+#submit_btn {
+    padding: 0;
+    background-color: #d11250;
+    color: white;
+    height: 30px;
+    width: 100px;
+    border: none;
+    outline: none;
+}
+
+#bad_habit {
+    height: 25px;
+    width: 300px;
+}
+
