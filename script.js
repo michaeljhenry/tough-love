@@ -54,8 +54,7 @@ var modifyString = function(str) {
   else {
     newStr = newStr[0].toUpperCase() + newStr.slice(1) + '?<br>';
   }
-  console.log(answerArray);
-  console.log(newStr);
+
   return newStr;
 }
 
